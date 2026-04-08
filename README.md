@@ -1,6 +1,6 @@
 # Data Structures & Algorithms - S30 Curriculum
 
-This repository contains my solutions to various LeetCode problems as part of the [S30 Data Structures and Algorithms curriculum](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit?gid=0#gid=0). It showcases my problem-solving skills and understanding of core computer science concepts.
+This repository contains my solutions to various LeetCode problems as part of the [S30 Data Structures and Algorithms curriculum](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit?gid=0#gid=0). 
 
 ## Problems List
 
